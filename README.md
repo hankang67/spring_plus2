@@ -50,10 +50,13 @@ JPQL로 작성된 쿼리를 QueryDSL로 변경하고, 성능 문제를 해결합
 
 
 # 트러블 슈팅
-
+https://velog.io/@uara67/트러블슈팅-삭제된-.git-폴더-복구하기
 
 
 ## 문제 상황
+fatal: not a git repository (or any of the parent directories): .git
+현재 폴더에 git에 대한 정보 담은 파일이 없기 때문에 발생하는 에러
+
 
 
 
